@@ -89,7 +89,7 @@
     </td>
       <td align="center">
         <a href="https://github.com/Sidra-Yasmeen">
-            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
+            <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sidra Yasmeen"/>
             <br />
             <sub><b>Sidra Yasmeen</b></sub>
         </a>
